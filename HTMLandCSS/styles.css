@@ -1,0 +1,71 @@
+body {
+  font-family: Helvetica, sans-serif;
+  padding: 0px;
+  margin: 40px;
+}
+
+containers-item {
+  margin: 0;
+}
+
+h2 {
+  padding: 20px 0px;
+  text-decoration: underline solid black;
+  text-underline-offset: 15px;
+  margin:
+}
+
+section {
+  margin-bottom: 20px;
+  padding-bottom: 0px;
+}
+
+div {
+  padding-bottom: 2px;
+}
+
+header {
+  text-align: center;
+  border-bottom: solid;
+  /* padding: 15px; */
+}
+
+footer {
+  text-align: center;
+  border-top: solid;
+  text-decoration: none;
+  padding: 20px 0;
+}
+
+footer section {
+  margin: 0px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+
+.pm {
+  margin: 10px 0;
+}
+
+.long-text {
+  padding-right: 50%;
+}
+
+.footer-link {
+  padding: 5px;
+}
+
+.footer-link:hover {
+  background-color: black;
+  border-radius: 5px;
+  color: orange;
+}
